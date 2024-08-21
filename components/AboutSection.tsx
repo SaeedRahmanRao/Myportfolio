@@ -33,7 +33,7 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Saeed and I am a{" "}
+              Hi, my name is Saeed and I am a
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> Web Developer
@@ -61,11 +61,11 @@ const AboutSection = () => {
                 In addition to my academic journey, I have taken the initiative
                 to share my knowledge by teaching Design and Analysis of
                 Algorithms and Operating Systems (Ubuntu) on my YouTube channel,
-                "Reviving Skills." This experience has allowed me to deepen my
+                Reviving Skills. This experience has allowed me to deepen my
                 understanding of these subjects while helping others grasp
                 complex concepts. Creating content for the channel has been a
                 rewarding way to reinforce my learning and contribute to the
-                broader tech community.{" "}
+                broader tech community.
                 <a
                   href="https://youtube.com/@revivingskills?si=xw0iAPjpfRKE5N5h"
                   rel="noreferrer"
@@ -80,10 +80,10 @@ const AboutSection = () => {
             </div>
             <br />
             <p>
-              I believe that you should{" "}
+              I believe that you should
               <span className="font-bold text-teal-500">
                 never stop growing
-              </span>{" "}
+              </span>
               and that&apos;s what I strive to do, I have a passion for
               technology and a desire to always push the limits of what is
               possible. I am excited to see where my career takes me and am
