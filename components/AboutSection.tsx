@@ -41,19 +41,13 @@ const AboutSection = () => {
             <br />
             <p>
               I am an undergraduate Computer Science student at the University
-              of Central Punjab in Lahore, Pakistan. My academic journey here
-              has been enriching, providing me with a strong foundation in
-              computer science principles and practical experience in various
-              programming and development areas
+              of Central Punjab in Lahore, Pakistan.
             </p>
             <br />
             <p>
               My proficiency in multiple programming languages and hands-on
               experience with web development tools like Next.js have further
-              enhanced my technical capabilities. I am passionate about
-              exploring emerging technologies and applying my knowledge to solve
-              real-world problems, continually seeking new challenges and
-              learning opportunities.
+              enhanced my technical capabilities.
             </p>
             <br />
             <div className="flex">
@@ -61,11 +55,7 @@ const AboutSection = () => {
                 In addition to my academic journey, I have taken the initiative
                 to share my knowledge by teaching Design and Analysis of
                 Algorithms and Operating Systems (Ubuntu) on my YouTube channel,
-                Reviving Skills. This experience has allowed me to deepen my
-                understanding of these subjects while helping others grasp
-                complex concepts. Creating content for the channel has been a
-                rewarding way to reinforce my learning and contribute to the
-                broader tech community.
+                Reviving Skills.
                 <a
                   href="https://youtube.com/@revivingskills?si=xw0iAPjpfRKE5N5h"
                   rel="noreferrer"
@@ -80,14 +70,12 @@ const AboutSection = () => {
             </div>
             <br />
             <p>
-              I believe that you should
+              I believe that you should&nbsp;
               <span className="font-bold text-teal-500">
                 never stop growing
               </span>
-              and that&apos;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              &nbsp;and that&apos;s what I strive to do,I am excited to see
+              where my career takes me and am always open to new opportunities.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
@@ -109,7 +97,7 @@ const AboutSection = () => {
               alt=""
               width={325}
               height={325}
-              className="hidden md:block md:relative md:bottom-4 md:left-35 md:z-0 md:top-20"
+              className="hidden md:block md:relative md:bottom-4 md:left-45 md:z-0 md:top-20"
             />
           </div>
         </div>
