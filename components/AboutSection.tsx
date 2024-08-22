@@ -33,7 +33,7 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Saeed and I am a
+              Hi, my name is Saeed and I am a&nbsp;
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> Web Developer
