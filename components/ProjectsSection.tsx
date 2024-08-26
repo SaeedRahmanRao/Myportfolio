@@ -19,7 +19,7 @@ const projects = [
       "Developed a full-stack issue tracker using Next.js, featuring user authentication with NextAuth, and database management with Prisma and MySQL. Implemented core functionalities including issue creation, updating, viewing, and deletion. Enhanced user experience with advanced features such as sorting, filtering, and editing issues. Also integrated graphical data representation for tracking progress. Leveraged multiple libraries to optimize performance and scalability. Deployment is currently under maintenance, and I will update once it is live",
     image: "/nextapp.png",
     github: "https://github.com/SaeedRahmanRao/issue-tracker",
-    link: "",
+    link: "https://issue-tracker-njmg.vercel.app/",
   },
 ];
 
