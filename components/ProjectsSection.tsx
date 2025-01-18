@@ -10,7 +10,7 @@ const projects = [
     description:
       "This social media app offers Google account login for easy access. Users can create, like, and dislike posts, fostering meaningful interactions. Logging out is a simple process, prioritizing privacy and user experience.Project Github repo in unavaiable.I will update it soon",
     image: "/reactappp.png",
-    github: "",
+    github: "https://github.com/SaeedRahmanRao/socialmediaapp.git",
     link: "https://first-project-db276.firebaseapp.com/",
   },
   {
@@ -21,6 +21,14 @@ const projects = [
     github: "https://github.com/SaeedRahmanRao/issue-tracker",
     link: "https://issue-tracker-njmg.vercel.app/",
   },
+  {
+    name: "Billing Receipt Generator",
+    description:"This project is a Point of Sale (POS) system built with Next.js for generating billing receipts in a real-time market environment. The system includes comprehensive functionalities for processing sales transactions, applying discounts, and calculating sales tax based on user selection (5% or 16%). It integrates with Pakistan Revenue Authority (PRA) policies for compliance, ensuring that receipts follow local tax regulations. The solution supports real-time receipt generation, displays detailed transaction summaries, and includes features like discount input, tax calculation, and dynamic price adjustments before tax.",
+    image: "/pos.png",
+    github: "https://github.com/SaeedRahmanRao/PizzaPOS.git",
+    link: "https://doughjoe-pos-by-samspace.vercel.app/",
+  }
+
 ];
 
 const ProjectsSection = () => {
