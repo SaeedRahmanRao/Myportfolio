@@ -27,6 +27,13 @@ const projects = [
     image: "/pos.png",
     github: "https://github.com/SaeedRahmanRao/PizzaPOS.git",
     link: "https://doughjoe-pos-by-samspace.vercel.app/",
+  },
+  {
+    name: "Sales Dashboard",
+    description:"I’ve developed a Sales Dashboard Analysis using Streamlit, Plotly, and Python, designed to process and visualize large sales datasets. The interactive dashboard offers insights into key metrics such as total sales, product ratings, sales tax distribution across cities, and time series analysis. Additionally, I implemented K-Nearest Neighbors (KNN) for predictive analysis.This project showcases my ability to combine data analysis, visualization, and machine learning to present actionable business insights in an engaging, user-friendly interface.",
+    image: "/bigdata.png",
+    github: "https://github.com/SaeedRahmanRao/SalesDashboardProject.git",
+    link: "https://bigdataproject-ogsu4xj7fu5bwwaetpfszw.streamlit.app/",
   }
 
 ];
