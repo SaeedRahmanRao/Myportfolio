@@ -6,12 +6,18 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
-    name: "Web-Based Social Media Application",
-    description:
-      "This social media app offers Google account login for easy access. Users can create, like, and dislike posts, fostering meaningful interactions. Logging out is a simple process, prioritizing privacy and user experience.Project Github repo in unavaiable.I will update it soon",
-    image: "/reactappp.png",
-    github: "https://github.com/SaeedRahmanRao/socialmediaapp.git",
-    link: "https://first-project-db276.firebaseapp.com/",
+    name: "SkyCast Weather App",
+    description:"I developed SkyCast, a weather app built with Next.js, Tailwind CSS, ShadCN, Chart.js, and Leaflet. The app allows users to search for any city to view real-time weather updates, including temperature, humidity, wind speed, and rain chances. I integrated air quality data, showing pollutants like CO, NO₂, and PM2.5, to provide users with a comprehensive view of environmental conditions. Hourly and daily forecasts are displayed using interactive graphs powered by Chart.js, while the map feature, using Leaflet, enables users to explore weather patterns and data geographically. Tailwind CSS ensures the app has a sleek, responsive design, and I used ShadCN to enhance UI components for a polished and user-friendly experience.",
+    image: "/weather.png",
+    github: "https://github.com/SaeedRahmanRao/skycast.git",
+    link: "https://skycast-er6c-git-main-saeed-ur-rahmnas-projects.vercel.app/",
+  },
+  {
+    name: "Sales Dashboard",
+    description:"I’ve developed a Sales Dashboard Analysis using Streamlit, Plotly, and Python, designed to process and visualize large sales datasets. The interactive dashboard offers insights into key metrics such as total sales, product ratings, sales tax distribution across cities, and time series analysis. Additionally, I implemented K-Nearest Neighbors (KNN) for predictive analysis.This project showcases my ability to combine data analysis, visualization, and machine learning to present actionable business insights in an engaging, user-friendly interface.",
+    image: "/bigdata.png",
+    github: "https://github.com/SaeedRahmanRao/SalesDashboardProject.git",
+    link: "https://bigdataproject-ogsu4xj7fu5bwwaetpfszw.streamlit.app/",
   },
   {
     name: "Issue Tracker",
@@ -29,12 +35,14 @@ const projects = [
     link: "https://doughjoe-pos-by-samspace.vercel.app/",
   },
   {
-    name: "Sales Dashboard",
-    description:"I’ve developed a Sales Dashboard Analysis using Streamlit, Plotly, and Python, designed to process and visualize large sales datasets. The interactive dashboard offers insights into key metrics such as total sales, product ratings, sales tax distribution across cities, and time series analysis. Additionally, I implemented K-Nearest Neighbors (KNN) for predictive analysis.This project showcases my ability to combine data analysis, visualization, and machine learning to present actionable business insights in an engaging, user-friendly interface.",
-    image: "/bigdata.png",
-    github: "https://github.com/SaeedRahmanRao/SalesDashboardProject.git",
-    link: "https://bigdataproject-ogsu4xj7fu5bwwaetpfszw.streamlit.app/",
+    name: "Web-Based Social Media Application",
+    description:
+      "This social media app offers Google account login for easy access. Users can create, like, and dislike posts, fostering meaningful interactions. Logging out is a simple process, prioritizing privacy and user experience.Project Github repo in unavaiable.I will update it soon",
+    image: "/reactappp.png",
+    github: "https://github.com/SaeedRahmanRao/socialmediaapp.git",
+    link: "https://first-project-db276.firebaseapp.com/",
   }
+  
 
 ];
 

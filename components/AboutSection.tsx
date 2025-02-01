@@ -11,6 +11,10 @@ const skills = [
   { skill: "React-Native" },
   { skill: "Python" },
   { skill: "Streamlit" },
+  { skill: "Pandas" },
+  { skill: "Numpy" },
+  { skill: "Matplotlib" },
+  { skill: "Seaborn" },
   { skill: "Generative AI" },
   { skill: "C++" },
   { skill: "Tailwind CSS" },
@@ -36,18 +40,17 @@ const AboutSection = () => {
               Hi, my name is Saeed and I am a&nbsp;
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> Web Developer
+              <span className="font-bold">{" driven"}</span>Developer and Software Engineer
             </p>
             <br />
             <p>
-              I am an undergraduate Computer Science student at the University
+              I am an Computer Science graduate from the University
               of Central Punjab in Lahore, Pakistan.
             </p>
             <br />
             <p>
               My proficiency in multiple programming languages and hands-on
-              experience with web development tools like Next.js have further
-              enhanced my technical capabilities.
+              experience with Data Science , AI and Web Development.
             </p>
             <br />
             <div className="flex">
